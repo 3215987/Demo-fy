@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Demo-fy</string>
+    <string name="add_piece">Add Piece</string>
+    <string name="piece_name_hint">Name of Piece</string>
+</resources>
